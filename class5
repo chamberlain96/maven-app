@@ -1,7 +1,0 @@
-When you first add files to an empty repository, they are all untracked. To get Git to track them, you need to stage them, or add them to the staging environment.Adding commits keep track of our progress and changes as we work. Git considers each commit change point or "save point". It is a point in the project you can go back to if you find a bug, or want to make a change.we are almost done
-we started branch today.we will son end for today.
-we started branch today. thanks for today
-we started branch today. thanks for today local repository. remote repository.
-holiday season
-xmas season
-it was a great session
